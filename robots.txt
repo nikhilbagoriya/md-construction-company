@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mdinfratech.in/sitemap.xml
+
+# Disallow admin or private areas (if any)
+Disallow: /Doc/
+Disallow: /assets/scss/
+
+# Allow important directories
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/ 
