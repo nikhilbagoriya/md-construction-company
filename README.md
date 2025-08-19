@@ -47,7 +47,7 @@ Here’s how the official website is organized:
 ## 📌 Company Information
 
 - 📞 **Phone:** +91 988-780-3242  
-- 📧 **Email:** info@mdinfratech.in | gutsysumit57@gmail.com  
+- 📧 **Email:** info@mdinfratech.in 
 - 📍 **Address:** VPO Mohanpura, Kotputli, Rajasthan  
 
 ---
